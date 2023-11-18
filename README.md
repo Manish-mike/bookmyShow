@@ -20,16 +20,16 @@ This project is a Spring Boot implementation of the backend APIs for a ticket bo
 * **SMTP Server (for sending email notifications)**
 
 ## Project Working FlowChart
-![BMSflowchart](https://github.com/Ajaykumaryd/bookmyShow/assets/127691663/d821bca9-e553-4957-bdfa-ef8907c8b1d4)
+![BMSflowchart](https://github.com/Manish-mike/bookmyShow/assets/127691663/d821bca9-e553-4957-bdfa-ef8907c8b1d4)
 
 
 ## Swagger-ui Screen Shot
-![Apis](https://github.com/Ajaykumaryd/bookmyShow/assets/127691663/86114b7b-b2ca-46ce-b809-3e9b25785d16)
+![Apis](https://github.com/Manish-mike/bookmyShow/assets/127691663/86114b7b-b2ca-46ce-b809-3e9b25785d16)
 
 ## Getting Started
 To set up the project on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Amit8127/Book-My-Show.git`
+1. Clone the repository: `git clone https://github.com/Manish-mike/book-my-Show.git`
 2. Navigate to the project directory: `cd book-my-show`
 3. Configure the database settings in `application.properties` file.
 4. Build the project using Maven: `mvn clean install`
